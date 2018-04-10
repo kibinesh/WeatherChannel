@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Kibinesh Fulas)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This app takes input ( location, town, city, zip code) and displays the current weather and forcasts for 10 days.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://kibinesh.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to build an application using an API.
+2. How to retrieve data from free database using Ajax method and JSON
+3. how to  prepare your user interface hiding and displaying the texts as necessary.
 
